@@ -1,4 +1,5 @@
-function nomeDevolta () {
-console.log("Marvin");
-return("marvin");
-}  
+function nomeDeVolta() {
+console.log("marvin");
+return ("marvin");
+}
+console.log(nomeDeVolta())
