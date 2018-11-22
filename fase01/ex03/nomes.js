@@ -1,4 +1,4 @@
-function nomes(Rafaela, Camila) {
-console.log("Rafaela e Camila");
+function nomes(Rafaela, Camila){
+return (Rafaela + ' e ' + Camila);
 }
 
